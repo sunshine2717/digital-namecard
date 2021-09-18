@@ -7,7 +7,7 @@ ORG:Sunshine Vet Care;
 TITLE:Veterinarian
 EMAIL;type=INTERNET;type=WORK;type=pref:enquiries@sunshinevetcare.com
 TEL;type=WORK;type=VOICE:+65 6246 8681
-item1.ADR;type=WORK;type=pref:;;Blk 681  Hougang Avenue  #01-841;;;530681;Singapore
+item1.ADR;type=WORK;type=pref:;;Blk 681  Hougang Avenue 8  #01-841;;;530681;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:sunshinevetcare.com
 item2.X-ABLabel:_$!<HomePage>!$_
